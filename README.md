@@ -1,6 +1,8 @@
 # Bank Customer Churn Analysis
 > A data science portfolio project analyzing customer retention patterns in banking
 
+[View the Complete Analysis Notebook](bank_churn_analysis.ipynb)
+
 ## Project Overview
 This portfolio project explores customer churn prediction using a Kaggle banking dataset of 10,000 customers. The analysis implements various machine learning approaches to understand and predict customer retention patterns, demonstrating practical applications of data science in the banking sector.
 
